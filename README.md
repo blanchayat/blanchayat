@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Blanchayat
+## 👋 Hi
 I'm a 22-year-old aspiring Data Analyst with a deep interest in transforming raw data into meaningful insights that drive smarter business decisions.
 I’m currently enhancing my skills in SQL, PostgreSQL, and data management, using tools like pgAdmin, DBeaver, and Docker to build, test, and optimize databases in real-world environments.
 
