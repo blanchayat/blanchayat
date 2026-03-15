@@ -2,22 +2,21 @@
 I'm a 22-year-old aspiring Data Analyst with a deep interest in transforming raw data into meaningful insights that drive smarter business decisions.
 I’m currently enhancing my skills in SQL, PostgreSQL, and data management, using tools like pgAdmin, DBeaver, and Docker to build, test, and optimize databases in real-world environments.
 
-🧠 What I'm Learning
-📘 Mastering SQL for data analysis and reporting
-🧩 Designing PostgreSQL databases using pgAdmin & DBeaver
-🐳 Running and managing database containers with Docker
-📊 Exploring how analytics supports marketing strategies
+## 🧠 What I'm Working With
+**AI & Automation**
+Claude API · Prompt Engineering · AI SaaS Development · Vercel Serverless Functions
+**Data & Databases**
+PostgreSQL · SQL · pgAdmin · DBeaver · Docker · Supabase · Data Analysis
+**Development**
+JavaScript · HTML · CSS · Git & GitHub · REST APIs · Google OAuth
+**Analytics & Marketing**
+Data-driven decision making · Marketing analytics · CRM · Reporting
 
 🎯 Goals
 🚀 Strengthen my expertise in SQL and data management
-📈 Learn advanced data visualization and analytics tools
 💼 Work on real-world marketing & data-driven projects
-🎓 Grow into a confident Data Analyst / Data Management Specialist
-
-📜 Certifications
-🧾 HTML Certificate – Mimo App
-🎓 Introduction to SQL – DataCamp
-🎓 Intermediate SQL – DataCamp
+🤖 Build more AI-powered automation products
+🎓 Grow into a confident Data Analyst & AI Automation Specialist
 
 ⚙️ Tools & Technologies
 🐘 PostgreSQL
@@ -25,6 +24,9 @@ I’m currently enhancing my skills in SQL, PostgreSQL, and data management, usi
 🪶 DBeaver
 🐳 Docker
 💻 Git & GitHub
+☁️ Vercel 
+🗄️ Supabase 
+🤖 Claude API
 
 🌐 Let's Connect
  Email: nhayatt999@gmail.com
